@@ -7,7 +7,7 @@
 </script>
 
 <main
-  class="flex overflow-hidden flex-col items-center pt-2 font-bold whitespace-nowrap bg-white"
+  class="flex overflow-hidden flex-col items-center pt-2 font-bold whitespace-nowrap"
 >
   <Header />
   <section
